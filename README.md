@@ -29,3 +29,8 @@ Filter Implementation:
 • the Blackman window
 • the Hamming window
 • the Hann window
+
+## End Semester Colloquium
+At the end of the semester I participated with a presentation with the topic **"Creation of an Image of a Black Hole"** and the **role of DSP** to reach this image.
+
+Abstract: Black holes do not reflect or emit electromagnetic waves because of the enormous gravity of the black hole does not let anything including light, escape from it. so it can only be tracked with the help of spatial telescopes and special tools. The Event Horizon Telescope, which detects radio frequencies, picks this up and registers it as a bright halo around the black hole. The final image is the result of several individual shots averaged together
