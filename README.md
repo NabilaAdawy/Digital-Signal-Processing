@@ -5,16 +5,16 @@ The goal of the course is to present mathematical foundations of signal processi
 ## Learning outcomes 
 
 - Know basics of the mathematical theory of:
-o Discrete-time Fourier Transformation (DTFT)
-o Discrete Fourier Transformation (DFT)
-o Fast Discrete Fourier Transformation (FDFT)
-o Fourie series.
+  - Discrete-time Fourier Transformation (DTFT)
+  - Discrete Fourier Transformation (DFT)
+  - Fast Discrete Fourier Transformation (FDFT)
+  - Fourie series.
 - Understand relations between:
-o Analog and Digital signals
-o Continuous and Discrete signals.
-o Discrete signals and their convolution.
-o Discrete systems and Filters,
-o Impulse and Frequency domains.
+  - Analog and Digital signals
+  - Continuous and Discrete signals.
+  - Discrete signals and their convolution.
+  - Discrete systems and Filters,
+  - Impulse and Frequency domains.
 - Get practical experience with mathematical package SciLab/Octave in digital signal processing and filter design.
 
 ## First Home Assignment
